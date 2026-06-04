@@ -38,8 +38,8 @@
 <img width="1042" height="631" alt="image" src="https://github.com/user-attachments/assets/da81cea7-4325-46a5-bcf6-e657217f9c28" />
 
 
-### Name: Rheya e
-### Register Number: 212225040334
+### Name: hassini k
+### Register Number: 212225040122
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
